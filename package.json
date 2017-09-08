@@ -1,0 +1,15 @@
+{
+  "name": "csssnake",
+  "version": "1.0.0",
+  "description": "The CSS search engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niko Salminen",
+  "license": "ISC",
+  "dependencies": {
+    "css-tree": "^1.0.0-alpha21",
+    "node-fetch": "^1.7.2"
+  }
+}
